@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CampusExpense</string>
+    <string-array name="Budget">
+        <item>Select expense Type</item>
+        <item>Tuition Fee</item>
+        <item>Food</item>
+        <item>Gifts for darling</item>
+    </string-array>
+</resources>
